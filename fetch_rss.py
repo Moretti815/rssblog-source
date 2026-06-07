@@ -30,7 +30,16 @@ rss_fetch_date_dir = "./__tmp__/date/"
 
 def fetch():
     global rss
-    for key, link in fetch_list.items():
+    # 支持字典格式 {user: link} 或列表格式 [link1, link2, ...]
+    if isinstance(fetch_list, dict):
+        items = fetch_list.items()
+    elif isinstance(fetch_list, list):
+        items = enumerate(fetch_list)
+    else:
+        print(f"Error: fetch_list has unsupported type: {type(fetch_list)}")
+        return
+
+    for key, link in items:
         rss_list = []
         try:
             rss_list = json.loads(requests.get(link, verify=False).text)
@@ -40,7 +49,7 @@ def fetch():
         except:
             pass
         rss = rss + rss_list
-        rss_user[key] = rss_list
+        rss_user[str(key)] = rss_list
 
     # 所有源根据url去重
     rss = list({r: r for r in rss}.values())
