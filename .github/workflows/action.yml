@@ -73,75 +73,48 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Determine target branch
+        id: branch
+        run: |
+          if [ "${{ github.ref }}" = "refs/heads/master" ]; then
+            echo "name=public" >> $GITHUB_OUTPUT
+          else
+            echo "name=public-dev" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Checkout target branch
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
-          fetch-depth: 0  # Need full history to check branch existence
+          ref: ${{ steps.branch.outputs.name }}
+          fetch-depth: 1
+        continue-on-error: true
 
-      - name: Setup git
+      - name: Create orphan branch if not exists
+        if: failure()
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git checkout --orphan ${{ steps.branch.outputs.name }}
+          git rm -rf . 2>/dev/null || true
 
-      - name: Prepare public branch (master)
-        if: ${{ github.ref == 'refs/heads/master' }}
+      - name: Clean working directory
         run: |
-          # Check if public branch exists
-          if git show-ref --verify --quiet refs/remotes/origin/public; then
-            echo "public branch exists, checking out..."
-            git checkout public
-          else
-            echo "public branch does not exist, creating orphan branch..."
-            git checkout --orphan public
-            git rm -rf . 2>/dev/null || true
-          fi
+          find . -maxdepth 1 -not -name '.git' -not -name '.' -exec rm -rf {} + 2>/dev/null || true
 
-      - name: Prepare public branch (dev)
-        if: ${{ github.ref == 'refs/heads/dev' }}
-        run: |
-          # Check if public-dev branch exists
-          if git show-ref --verify --quiet refs/remotes/origin/public-dev; then
-            echo "public-dev branch exists, checking out..."
-            git checkout public-dev
-          else
-            echo "public-dev branch does not exist, creating orphan branch..."
-            git checkout --orphan public-dev
-            git rm -rf . 2>/dev/null || true
-          fi
-      - name: Clean public
-        run: |
-          # 保留 .git 目录，删除其他所有文件
-          find . -maxdepth 1 -not -name '.git' -not -name '.' -exec rm -rf {} +
-      - name: Download public
+      - name: Download public artifact
         uses: actions/download-artifact@v4
         with:
           name: public
           path: ./
-      - name: Check download
-        shell: bash
+
+      - name: Check downloaded files
+        run: ls -lh ./
+
+      - name: Commit and push
         run: |
-          ls -lh ./
-      - name: Commit files
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
           git add .
           git commit -m "daily update $(date +'%B %d, %Y %T (%Z)')" --allow-empty
-      - name: Push changes
-        if: ${{ github.ref == 'refs/heads/master' }}
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: public
-          force: true
-      - name: Push changes dev
-        if: ${{ github.ref == 'refs/heads/dev' }}
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: public-dev
-          force: true
+          git push origin ${{ steps.branch.outputs.name }} --force
 
   # trigger:
   #   needs: deploy
