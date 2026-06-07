@@ -80,6 +80,8 @@ jobs:
           persist-credentials: false
           fetch-depth: 1
           ref: public
+        continue-on-error: true
+
       - name: Pull public dev
         uses: actions/checkout@v4
         if: ${{ github.ref == 'refs/heads/dev' }}
@@ -87,6 +89,18 @@ jobs:
           persist-credentials: false
           fetch-depth: 1
           ref: public-dev
+        continue-on-error: true
+
+      - name: Init public branch if not exists
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git checkout --orphan temp-branch || true
+          git rm -rf . || true
+          touch .gitkeep
+          git add .
+          git commit -m "init" --allow-empty || true
+        continue-on-error: true
       - name: Clean public
         run: |
           rm -fr ./*
