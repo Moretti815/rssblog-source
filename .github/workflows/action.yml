@@ -13,34 +13,40 @@ jobs:
     steps:
       - name: Pull source
         if: ${{ github.ref == 'refs/heads/master' }}
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           persist-credentials: false
           fetch-depth: 1
           ref: master
       - name: Pull source dev
         if: ${{ github.ref == 'refs/heads/dev' }}
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           persist-credentials: false
           fetch-depth: 1
           ref: dev
+      - name: Prepare public directory
+        run: mkdir -p ./public
+
       - name: Pull public
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
           persist-credentials: false
           fetch-depth: 1
           ref: public
           path: ./public
+        continue-on-error: true
+
       - name: Pull public dev
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         if: ${{ github.ref == 'refs/heads/dev' }}
         with:
           persist-credentials: false
           fetch-depth: 1
           ref: public-dev
           path: ./public
+        continue-on-error: true
       - name: Check source
         shell: bash
         run: |
@@ -68,14 +74,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Pull public
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
           persist-credentials: false
           fetch-depth: 1
           ref: public
       - name: Pull public dev
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         if: ${{ github.ref == 'refs/heads/dev' }}
         with:
           persist-credentials: false
