@@ -14,11 +14,11 @@ python3 action.py
 
 数据base url:
 ```
-SOURCE_BASE = "https://raw.githubusercontent.com/caibingcheng/rssblog-source/public/"
+SOURCE_BASE = "https://raw.githubusercontent.com/Moretti815/rssblog-source/public/"
 ```
 国内可以使用gitee备份加速:
 ```
-SOURCE_BASE = "https://gitee.com/caibingcheng/rssblog-source/raw/public/"
+SOURCE_BASE = "https://gitee.com/Moretti815/rssblog-source/raw/public/"
 ```
 
 ## FEATURE LIST
