@@ -9,7 +9,7 @@ import pandas
 from fetch_utils import *
 
 requests.packages.urllib3.disable_warnings()
-fetch_list_source = "https://gist.githubusercontent.com/caibingcheng/adf8f300dc50a61a965bdcc6ef0aecb3/raw/rssblog-source-list.json"
+fetch_list_source = "https://gist.githubusercontent.com/moretti815/bad8611ab42af8ba0391a881f12721ab/raw/addition.json"
 fetch_list = json.loads(requests.get(fetch_list_source, verify=False).text)
 
 # 所有的rss源
