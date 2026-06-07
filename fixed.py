@@ -52,6 +52,12 @@ fix_map = {
 
 if __name__ == "__main__":
     args = sys.argv
+    if len(args) < 2:
+        print("Warning: No fix type provided. Skipping fixed.py execution.")
+        print("Usage: python fixed.py <fix_type>")
+        print("Available types: %s" % ', '.join(fix_map.keys()))
+        sys.exit(0)
+
     for ftype in args[1].split(','):
         if ftype in fix_map.keys():
             print("fixing type %s" % ftype)
