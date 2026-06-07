@@ -103,11 +103,13 @@ jobs:
         continue-on-error: true
       - name: Clean public
         run: |
-          rm -fr ./*
+          # 保留 .git 目录，删除其他所有文件
+          find . -maxdepth 1 -not -name '.git' -not -name '.' -exec rm -rf {} +
       - name: Download public
         uses: actions/download-artifact@v4
         with:
           name: public
+          path: ./
       - name: Check download
         shell: bash
         run: |
