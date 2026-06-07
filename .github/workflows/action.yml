@@ -73,34 +73,42 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - name: Pull public
+      - name: Checkout repository
         uses: actions/checkout@v4
-        if: ${{ github.ref == 'refs/heads/master' }}
         with:
           persist-credentials: false
-          fetch-depth: 1
-          ref: public
-        continue-on-error: true
+          fetch-depth: 0  # Need full history to check branch existence
 
-      - name: Pull public dev
-        uses: actions/checkout@v4
-        if: ${{ github.ref == 'refs/heads/dev' }}
-        with:
-          persist-credentials: false
-          fetch-depth: 1
-          ref: public-dev
-        continue-on-error: true
-
-      - name: Init public branch if not exists
+      - name: Setup git
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git checkout --orphan temp-branch || true
-          git rm -rf . || true
-          touch .gitkeep
-          git add .
-          git commit -m "init" --allow-empty || true
-        continue-on-error: true
+
+      - name: Prepare public branch (master)
+        if: ${{ github.ref == 'refs/heads/master' }}
+        run: |
+          # Check if public branch exists
+          if git show-ref --verify --quiet refs/remotes/origin/public; then
+            echo "public branch exists, checking out..."
+            git checkout public
+          else
+            echo "public branch does not exist, creating orphan branch..."
+            git checkout --orphan public
+            git rm -rf . 2>/dev/null || true
+          fi
+
+      - name: Prepare public branch (dev)
+        if: ${{ github.ref == 'refs/heads/dev' }}
+        run: |
+          # Check if public-dev branch exists
+          if git show-ref --verify --quiet refs/remotes/origin/public-dev; then
+            echo "public-dev branch exists, checking out..."
+            git checkout public-dev
+          else
+            echo "public-dev branch does not exist, creating orphan branch..."
+            git checkout --orphan public-dev
+            git rm -rf . 2>/dev/null || true
+          fi
       - name: Clean public
         run: |
           # 保留 .git 目录，删除其他所有文件

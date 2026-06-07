@@ -80,7 +80,7 @@ def generator_rss(rss_out, rss_in):
     rss = PyRSS2Gen.RSS2(
         title="RSSBlog",
         link="https://rss.2005815.xyz/",
-        description="A Site for Blog RSS.",
+        description="Moretti RSS Blog",
         lastBuildDate=datetime.datetime.now(),
         items=[
             PyRSS2Gen.RSSItem(
