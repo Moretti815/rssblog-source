@@ -107,8 +107,15 @@ def combine_source(rss_fetch_all_dir, rss_fetch_source_dir):
             dfs.append(df)
         except:
             print("combining skip", file)
-    df = pandas.concat(dfs)
-    df = df.sort_values("timestamp", ascending=False)
+
+    if len(dfs) == 0:
+        print("Warning: No RSS data fetched. Creating empty all/new.csv")
+        # 创建空的 DataFrame 避免后续报错
+        df = pandas.DataFrame(columns=["title", "author", "link", "home", "rss", "date", "timestamp"])
+    else:
+        df = pandas.concat(dfs)
+        df = df.sort_values("timestamp", ascending=False)
+
     df.to_csv(rss_fetch_all_dir + "new.csv", index=False, sep=",", encoding="utf-8")
     print("combin all page done")
 
@@ -181,6 +188,11 @@ def split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir):
                 dfs.append(ldf)
             except:
                 print("combin user skip", url_hash)
+
+        if len(dfs) == 0:
+            print(f"Warning: No data for user {user}, skipping")
+            continue
+
         df = pandas.concat(dfs)
         df = df.sort_values("timestamp", ascending=False)
         rss_dir = rss_fetch_user_dir + user + "/all/"
