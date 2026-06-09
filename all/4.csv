@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+对标CF Worker？拿EdgeOne边缘函数做一个随机图API！,《二叉树树》官方网站,https://2x.nz/posts/eo-function/,https://2x.nz,https://2x.nz/rss.xml,2025-07-31,1753977600.0
 CSP标头是什么？为什么有人能神不知鬼不觉地盗走你的信息？,《二叉树树》官方网站,https://2x.nz/posts/csp/,https://2x.nz,https://2x.nz/rss.xml,2025-07-30,1753891200.0
 如何提高网站的SEO？,《二叉树树》官方网站,https://2x.nz/posts/improve-seo/,https://2x.nz,https://2x.nz/rss.xml,2025-07-29,1753804800.0
 关于本站为什么不进行ICP备案,《二叉树树》官方网站,https://2x.nz/posts/why-not-icp/,https://2x.nz,https://2x.nz/rss.xml,2025-07-28,1753718400.0
@@ -35,7 +36,7 @@ NAT1开放内网网站,《二叉树树》官方网站,https://2x.nz/posts/nat1-w
 双拼真的有那么难吗,CWorld Site,https://cworld0.com/blog/shuangpin,https://cworld0.com,https://cworld0.com/rss.xml,2025-04-30,1745971200.0
 浏览器JS运行原理,《二叉树树》官方网站,https://2x.nz/posts/browser-run-js/,https://2x.nz,https://2x.nz/rss.xml,2025-04-24,1745510400.0
 前端字体二三事,纸鹿摸鱼处,https://blog.zhilu.site/2025/font-tips,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2025-04-16,1744764590.0
-Github全站反向代理搭建指南,《二叉树树》官方网站,https://2x.nz/posts/gh-proxy/,https://2x.nz,https://2x.nz/rss.xml,2025-04-14,1744646400.0
+崩坏星穹铁道全局加速,《二叉树树》官方网站,https://2x.nz/posts/starrail-fast/,https://2x.nz,https://2x.nz/rss.xml,2025-04-14,1744646400.0
 深色模式开发的最佳实践,纸鹿摸鱼处,https://blog.zhilu.site/2025/dark-mode-guide,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2025-04-14,1744596436.0
 业余无线电B证不完全指南,CWorld Site,https://cworld0.com/blog/amateur-radio-b,https://cworld0.com,https://cworld0.com/rss.xml,2025-04-11,1744329600.0
 Netlify、Vercel反代网站,《二叉树树》官方网站,https://2x.nz/posts/netlify-vercel-proxy/,https://2x.nz,https://2x.nz/rss.xml,2025-04-03,1743696000.0
@@ -48,4 +49,3 @@ Hugo博客搭建教程以及配置调优,《二叉树树》官方网站,https://
 利用阿里云云函数 FC 搭建AList后端，每月仅需5毛！,《二叉树树》官方网站,https://2x.nz/posts/alist-for-aliyun/,https://2x.nz,https://2x.nz/rss.xml,2025-01-12,1736697600.0
 Vim 与 VSCode 天衣无缝的配合,CWorld Site,https://cworld0.com/blog/vscode-vim,https://cworld0.com,https://cworld0.com/rss.xml,2025-01-03,1735862400.0
 一些数码外设的评价和“捡垃圾”心得,纸鹿摸鱼处,https://blog.zhilu.site/2024/digital-products-bought,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2024-12-19,1734607466.0
-使用ArchiSteamFarm进行Steam自动挂卡,《二叉树树》官方网站,https://2x.nz/posts/asf/,https://2x.nz,https://2x.nz/rss.xml,2024-12-17,1734451200.0
