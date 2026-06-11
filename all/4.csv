@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+你是否在寻找一个评论系统而又不想自托管？又饱受垃圾评论的叨扰？,《二叉树树》官方网站,https://2x.nz/posts/giscus-akismet/,https://2x.nz,https://2x.nz/rss.xml,2025-08-03,1754236800.0
 QQ微信不够私密？自建自己的聊天服务器！,《二叉树树》官方网站,https://2x.nz/posts/self-host-matrix/,https://2x.nz,https://2x.nz/rss.xml,2025-08-01,1754064000.0
 对标CF Worker？拿EdgeOne边缘函数做一个随机图API！,《二叉树树》官方网站,https://2x.nz/posts/eo-function/,https://2x.nz,https://2x.nz/rss.xml,2025-07-31,1753977600.0
 CSP标头是什么？为什么有人能神不知鬼不觉地盗走你的信息？,《二叉树树》官方网站,https://2x.nz/posts/csp/,https://2x.nz,https://2x.nz/rss.xml,2025-07-30,1753891200.0
@@ -10,7 +11,7 @@ Forgejo及其Action自部署简明教程,LiuShen's Blog - 清羽飞扬,https://b
 国内对象存储免流量费？Cloudflare带宽联盟究竟是什么？,《二叉树树》官方网站,https://2x.nz/posts/cloudflare-bandwidth-alliance/,https://2x.nz,https://2x.nz/rss.xml,2025-07-21,1753113600.0
 西安·十几年后的初识,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/96de9c07/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2025-07-18,1752840000.0
 教你搭建Chevereto这个超级强大的图床！,《二叉树树》官方网站,https://2x.nz/posts/chevereto/,https://2x.nz,https://2x.nz/rss.xml,2025-07-15,1752595200.0
-我用Claude10分钟写了个六子棋...?,《二叉树树》官方网站,https://2x.nz/posts/sixqi-py/,https://2x.nz,https://2x.nz/rss.xml,2025-07-13,1752422400.0
+N款CDN/静态托管服务商的优缺点比较,《二叉树树》官方网站,https://2x.nz/posts/static-web/,https://2x.nz,https://2x.nz/rss.xml,2025-07-13,1752422400.0
 利用Cloudflare Page提供的重定向功能实现无损耗、不限数量的静态重定向！,《二叉树树》官方网站,https://2x.nz/posts/cfpage-redirect/,https://2x.nz,https://2x.nz/rss.xml,2025-07-12,1752336000.0
 企业微信实用操作指南,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/c00eee1d/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2025-07-10,1752167340.0
 配置Vercel让ITDog测试全部403！,《二叉树树》官方网站,https://2x.nz/posts/vercel-deny/,https://2x.nz,https://2x.nz/rss.xml,2025-07-09,1752076800.0
@@ -37,7 +38,7 @@ NAT1开放内网网站,《二叉树树》官方网站,https://2x.nz/posts/nat1-w
 双拼真的有那么难吗,CWorld Site,https://cworld0.com/blog/shuangpin,https://cworld0.com,https://cworld0.com/rss.xml,2025-04-30,1745971200.0
 浏览器JS运行原理,《二叉树树》官方网站,https://2x.nz/posts/browser-run-js/,https://2x.nz,https://2x.nz/rss.xml,2025-04-24,1745510400.0
 前端字体二三事,纸鹿摸鱼处,https://blog.zhilu.site/2025/font-tips,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2025-04-16,1744764590.0
-崩坏星穹铁道全局加速,《二叉树树》官方网站,https://2x.nz/posts/starrail-fast/,https://2x.nz,https://2x.nz/rss.xml,2025-04-14,1744646400.0
+Github全站反向代理搭建指南,《二叉树树》官方网站,https://2x.nz/posts/gh-proxy/,https://2x.nz,https://2x.nz/rss.xml,2025-04-14,1744646400.0
 深色模式开发的最佳实践,纸鹿摸鱼处,https://blog.zhilu.site/2025/dark-mode-guide,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2025-04-14,1744596436.0
 业余无线电B证不完全指南,CWorld Site,https://cworld0.com/blog/amateur-radio-b,https://cworld0.com,https://cworld0.com/rss.xml,2025-04-11,1744329600.0
 Netlify、Vercel反代网站,《二叉树树》官方网站,https://2x.nz/posts/netlify-vercel-proxy/,https://2x.nz,https://2x.nz/rss.xml,2025-04-03,1743696000.0
@@ -48,4 +49,3 @@ Hugo博客搭建教程以及配置调优,《二叉树树》官方网站,https://
 我买了个新NAS...,《二叉树树》官方网站,https://2x.nz/posts/new-nas/,https://2x.nz,https://2x.nz/rss.xml,2025-02-22,1740240000.0
 寻不回手工油糕,纸鹿摸鱼处,https://blog.zhilu.site/2025/oil-cakes,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2025-02-16,1739680224.0
 利用阿里云云函数 FC 搭建AList后端，每月仅需5毛！,《二叉树树》官方网站,https://2x.nz/posts/alist-for-aliyun/,https://2x.nz,https://2x.nz/rss.xml,2025-01-12,1736697600.0
-Vim 与 VSCode 天衣无缝的配合,CWorld Site,https://cworld0.com/blog/vscode-vim,https://cworld0.com,https://cworld0.com/rss.xml,2025-01-03,1735862400.0
