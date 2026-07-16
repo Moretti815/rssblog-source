@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置,张洪Heo,https://blog.zhheo.com/p/0kl9erod.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-16,1784175473.0
 混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上,张洪Heo,https://blog.zhheo.com/p/2orxjo9r.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-08,1783480134.0
 给OpenClaw加上rm删除保护：防止AI误删你的整个电脑,张洪Heo,https://blog.zhheo.com/p/owiixgnk.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-07,1783422360.0
 豆言豆语Skill发布：让AI学会豆包的毒舌说话风格,张洪Heo,https://blog.zhheo.com/p/ojxzvqar.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-02,1782990288.0
@@ -10,7 +11,7 @@ AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款
 重要照片一定要备份，手机养成照片备份的好习惯,张洪Heo,https://blog.zhheo.com/p/cyw9sqnh.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-17,1781665917.0
 HeoSticker3D发布：3D形态的Heo表情，个人免费使用,张洪Heo,https://blog.zhheo.com/p/mjpbdtsh.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-11,1781155403.0
 这才是我心目中AI博客的样子,张洪Heo,https://blog.zhheo.com/p/vp4ate1j.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-09,1781002280.0
-洪绘历史记录大更新：支持根据历史记录的AI对话,张洪Heo,https://blog.zhheo.com/p/i8c7l4eo.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-09,1780971736.0
+洪绘历史记录大更新：支持根据浏览器历史记录的AI对话,张洪Heo,https://blog.zhheo.com/p/i8c7l4eo.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-09,1780971736.0
 如何让OpenClaw调用你的百度网盘？百度网盘官方Skill帮你上传、下载与分享,张洪Heo,https://blog.zhheo.com/p/rozgxwdq.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-04,1780544175.0
 建站四年，从Hexo换到Astro,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/acf06c11/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2026-05-31,1780251021.0
 如何判断一个文章是不是AI写的？文字、视频、图片AI检测方法,张洪Heo,https://blog.zhheo.com/p/56yusy1w.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-05-29,1780039423.0
@@ -48,4 +49,3 @@ Casdoor强行兼容Artalk社交登录,LiuShen's Blog - 清羽飞扬,https://blog
 第三方1Panel应用商店不完全指北,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/470abaf8/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2025-08-29,1756453821.0
 循一缕风，入山偷得夏日凉,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/aae6fd55/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2025-08-08,1754632221.0
 Forgejo及其Action自部署简明教程,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/de5fc13c/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2025-07-25,1753452021.0
-西安·十几年后的初识,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/96de9c07/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2025-07-18,1752840000.0
