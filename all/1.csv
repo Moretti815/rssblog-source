@@ -1,13 +1,15 @@
 title,author,link,home,rss,date,timestamp
 给 SearXNG 接入豆包搜索，解决 OpenClaw 信源难题,张洪Heo,https://blog.zhheo.com/p/1ffvrvyd.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-17,1784264897.0
+整个博客非得塞到网站源码吗？不！纯前端的前后端分离全部搞定！,博客 | 二叉树树,https://2x.nz/posts/micro-blog-service/,https://2x.nz/,https://2x.nz/rss.xml,2026-07-17,1784246400.0
 OpenClaw记忆系统升级：从memory-core到memory-lancedb-pro的迁移与配置,张洪Heo,https://blog.zhheo.com/p/0kl9erod.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-16,1784175473.0
 screenpipe：开源本地的 AI 记忆引擎，让电脑更懂你,张洪Heo,https://blog.zhheo.com/p/94w0byur.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-15,1784131200.0
 Cloudflare/Vercel项目推荐(6),LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/e4a369fc/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2026-07-12,1783872720.0
 混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上,张洪Heo,https://blog.zhheo.com/p/2orxjo9r.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-08,1783480134.0
 给OpenClaw加上rm删除保护：防止AI误删你的整个电脑,张洪Heo,https://blog.zhheo.com/p/owiixgnk.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-07,1783422360.0
+神了！PagesCMS拯救静态博客！,博客 | 二叉树树,https://2x.nz/posts/pagescms/,https://2x.nz/,https://2x.nz/rss.xml,2026-07-04,1783123200.0
 第一篇 PagesCMS 构建的文章,博客 | 二叉树树,https://feed.2x.nz/posts/first/,https://feed.2x.nz/,https://2x.nz/rss.xml,2026-07-04,1783123200.0
-EmDash，拉完了,《二叉树树》官方网站,https://2x.nz/posts/emdash/,https://2x.nz,https://2x.nz/rss.xml,2026-07-03,1783036800.0
 EmDash，拉完了,博客 | 二叉树树,https://feed.2x.nz/posts/emdash/,https://feed.2x.nz/,https://2x.nz/rss.xml,2026-07-03,1783036800.0
+EmDash，拉完了,《二叉树树》官方网站,https://2x.nz/posts/emdash/,https://2x.nz,https://2x.nz/rss.xml,2026-07-03,1783036800.0
 豆言豆语Skill发布：让AI学会豆包的毒舌说话风格,张洪Heo,https://blog.zhheo.com/p/ojxzvqar.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-02,1782990288.0
 美团longcat上手：缓存免费，主打便宜，就是速度太慢，思考时间looooong,张洪Heo,https://blog.zhheo.com/p/e1l2qom9.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-02,1782958207.0
 OpenClaw Workboard 功能上手：让 Agent 自己干活，你只管盯进度,张洪Heo,https://blog.zhheo.com/p/s3li91qz.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-07-01,1782883200.0
@@ -22,17 +24,17 @@ vibe-coding个人实践,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/p
 HeoSticker3D发布：3D形态的Heo表情，个人免费使用,张洪Heo,https://blog.zhheo.com/p/mjpbdtsh.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-11,1781155403.0
 这才是我心目中AI博客的样子,张洪Heo,https://blog.zhheo.com/p/vp4ate1j.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-09,1781002280.0
 洪绘历史记录大更新：支持根据浏览器历史记录的AI对话,张洪Heo,https://blog.zhheo.com/p/i8c7l4eo.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-09,1780971736.0
-AMD 9060XT测评,博客 | 二叉树树,https://feed.2x.nz/posts/9060xt/,https://feed.2x.nz/,https://2x.nz/rss.xml,2026-06-06,1780704000.0
 AMD 9060XT测评,《二叉树树》官方网站,https://2x.nz/posts/9060xt/,https://2x.nz,https://2x.nz/rss.xml,2026-06-06,1780704000.0
-二叉树树你个大傻逼,《二叉树树》官方网站,https://2x.nz/posts/wtfmycfaccountlostthe2xssisshabi/,https://2x.nz,https://2x.nz/rss.xml,2026-06-05,1780617600.0
+AMD 9060XT测评,博客 | 二叉树树,https://feed.2x.nz/posts/9060xt/,https://feed.2x.nz/,https://2x.nz/rss.xml,2026-06-06,1780704000.0
 二叉树树你个大傻逼,博客 | 二叉树树,https://feed.2x.nz/posts/wtfmycfaccountlostthe2xssisshabi/,https://feed.2x.nz/,https://2x.nz/rss.xml,2026-06-05,1780617600.0
+二叉树树你个大傻逼,《二叉树树》官方网站,https://2x.nz/posts/wtfmycfaccountlostthe2xssisshabi/,https://2x.nz,https://2x.nz/rss.xml,2026-06-05,1780617600.0
 如何让OpenClaw调用你的百度网盘？百度网盘官方Skill帮你上传、下载与分享,张洪Heo,https://blog.zhheo.com/p/rozgxwdq.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-06-04,1780544175.0
 建站四年，从Hexo换到Astro,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/acf06c11/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2026-05-31,1780251021.0
 如何判断一个文章是不是AI写的？文字、视频、图片AI检测方法,张洪Heo,https://blog.zhheo.com/p/56yusy1w.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-05-29,1780039423.0
 分享一下我现在都在使用哪些AI工具，以及我的的AI生产力状况,张洪Heo,https://blog.zhheo.com/p/ug37qbz9.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-05-26,1779772717.0
 浏览器直接访问正常，过了负载均衡就崩了？只因响应头里多了个空格,虹墨空间站,https://www.imaegoo.com/2026/lb-connection-reset/,https://www.imaegoo.com/,https://www.imaegoo.com/atom.xml,2026-05-23,1779499800.0
 为OpenClaw搭建一个免费的搜索引擎，如何让OpenClaw搜索网页内容,张洪Heo,https://blog.zhheo.com/p/9p755adr.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-05-22,1779419498.0
-新版Win11远程桌面/RDP突然连不上？！百分百教你解决！,《二叉树树》官方网站,https://2x.nz/posts/fuck-mswin11-rdp/,https://2x.nz,https://2x.nz/rss.xml,2026-05-22,1779408000.0
+新版Win11远程桌面/RDP突然连不上？！百分百教你解决！,博客 | 二叉树树,https://2x.nz/posts/fuck-mswin11-rdp/,https://2x.nz/,https://2x.nz/rss.xml,2026-05-22,1779408000.0
 新版Win11远程桌面/RDP突然连不上？！百分百教你解决！,博客 | 二叉树树,https://feed.2x.nz/posts/fuck-mswin11-rdp/,https://feed.2x.nz/,https://2x.nz/rss.xml,2026-05-22,1779408000.0
 Claude Code 怎样快速消耗 token,虹墨空间站,https://www.imaegoo.com/2026/claude-code-token-burner/,https://www.imaegoo.com/,https://www.imaegoo.com/atom.xml,2026-05-21,1779359400.0
 这一次，我们听点有意思的,张洪Heo,https://blog.zhheo.com/p/7a59rx04.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-05-21,1779337636.0
@@ -47,5 +49,3 @@ Claude Code 怎样快速消耗 token,虹墨空间站,https://www.imaegoo.com/202
 洪绘切图发布！如何将一个图片平均切图？按照固定距离或者网格切图？,张洪Heo,https://blog.zhheo.com/p/zg5upnsy.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-04-27,1777272873.0
 手把手教你跑一个二次元AI老婆！另附自然语言生图教程！,《二叉树树》官方网站,https://2x.nz/posts/ai-wife/,https://2x.nz,https://2x.nz/rss.xml,2026-04-26,1777198825.0
 手把手教你跑一个二次元AI老婆！另附自然语言生图教程！,博客 | 二叉树树,https://feed.2x.nz/posts/ai-wife/,https://feed.2x.nz/,https://2x.nz/rss.xml,2026-04-26,1777161600.0
-网站全面升级为纯Svelte！好处都有啥？都踩了哪些坑？,博客 | 二叉树树,https://feed.2x.nz/posts/astro-to-svelte/,https://feed.2x.nz/,https://2x.nz/rss.xml,2026-04-24,1776988800.0
-网站全面升级为纯Svelte！好处都有啥？都踩了哪些坑？,《二叉树树》官方网站,https://2x.nz/posts/astro-to-svelte/,https://2x.nz,https://2x.nz/rss.xml,2026-04-24,1776988800.0
