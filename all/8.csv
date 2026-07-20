@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+关于Rewrite MV无法播放\没有画面的解决方法,《二叉树树》官方网站,https://2x.nz/posts/rewrite-qa/,https://2x.nz,https://2x.nz/rss.xml,2024-11-27,1732723200.0
 关于Rewrite MV无法播放\没有画面的解决方法,博客 | 二叉树树,https://feed.2x.nz/posts/rewrite-qa/,https://feed.2x.nz/,https://2x.nz/rss.xml,2024-11-27,1732665600.0
 自建正向代理服务器,《二叉树树》官方网站,https://2x.nz/posts/vpn/,https://2x.nz,https://2x.nz/rss.xml,2024-11-21,1732204800.0
 自建正向代理服务器,博客 | 二叉树树,https://feed.2x.nz/posts/vpn/,https://feed.2x.nz/,https://2x.nz/rss.xml,2024-11-21,1732147200.0
@@ -16,8 +17,8 @@ N100 - PVE（fnOS+Debian）基建记录,博客 | 二叉树树,https://2x.nz/post
 使用基于IPFS的Fleek部署静态网站、托管图床、部署服务,《二叉树树》官方网站,https://2x.nz/posts/ipfs/,https://2x.nz,https://2x.nz/rss.xml,2024-10-16,1729094400.0
 使用基于IPFS的Fleek部署静态网站、托管图床、部署服务,博客 | 二叉树树,https://feed.2x.nz/posts/ipfs/,https://feed.2x.nz/,https://2x.nz/rss.xml,2024-10-16,1729036800.0
 傻瓜式AI翻唱软件Replay！选歌！选模型！然后CREATE SONG！,《二叉树树》官方网站,https://2x.nz/posts/replay/,https://2x.nz,https://2x.nz/rss.xml,2024-10-14,1728921600.0
-教你把AList的前端部署到CF Pages！让你的AList秒加载！,博客 | 二叉树树,https://feed.2x.nz/posts/alist-web/,https://feed.2x.nz/,https://2x.nz/rss.xml,2024-10-14,1728864000.0
 教你把AList的前端部署到CF Pages！让你的AList秒加载！,博客 | 二叉树树,https://2x.nz/posts/alist-web/,https://2x.nz/,https://2x.nz/rss.xml,2024-10-14,1728864000.0
+教你把AList的前端部署到CF Pages！让你的AList秒加载！,博客 | 二叉树树,https://feed.2x.nz/posts/alist-web/,https://feed.2x.nz/,https://2x.nz/rss.xml,2024-10-14,1728864000.0
 飞牛NAS玩机体验,《二叉树树》官方网站,https://2x.nz/posts/fnos/,https://2x.nz,https://2x.nz/rss.xml,2024-10-13,1728835200.0
 自制/手搓麦克森八木天线记录,CWorld Site,https://cworld0.com/blog/yagi,https://cworld0.com,https://cworld0.com/rss.xml,2024-10-13,1728777600.0
 飞牛NAS玩机体验,博客 | 二叉树树,https://feed.2x.nz/posts/fnos/,https://feed.2x.nz/,https://2x.nz/rss.xml,2024-10-13,1728777600.0
@@ -48,4 +49,3 @@ How to Use Git Offline,CWorld Site,https://cworld0.com/blog/using-git-offline,ht
 把博客文章按年份放在子文件夹中了,纸鹿摸鱼处,https://blog.zhilu.site/2024/blog-link-pattern,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2024-04-29,1714360218.0
 Astro Theme Pure 项目,CWorld Site,https://cworld0.com/blog/astro-theme-pure,https://cworld0.com,https://cworld0.com/rss.xml,2024-04-19,1713484800.0
 写过的奇妙代码。,纸鹿摸鱼处,https://blog.zhilu.site/2024/magic-code,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2024-04-07,1712464331.0
-Arch Linux 启动引导修复,纸鹿摸鱼处,https://blog.zhilu.site/2024/archlinux-boot-repair,https://blog.zhilu.site/,https://blog.zhilu.site/atom.xml,2024-04-01,1711984479.0
