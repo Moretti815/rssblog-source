@@ -1,4 +1,21 @@
 title,author,link,home,rss,date,timestamp
+Umami Cloud迁移到本地踩坑记录,博客 | 二叉树树,https://feed.2x.nz/posts/umami-migration/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-12-05,1764892800.0
+上手米哈游AI，然后把它逆了！,《二叉树树》官方网站,https://2x.nz/posts/anuneko/,https://2x.nz,https://2x.nz/rss.xml,2025-12-02,1764637900.0
+上手米哈游AI，然后把它逆了！,博客 | 二叉树树,https://feed.2x.nz/posts/anuneko/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-12-02,1764633600.0
+上手米哈游AI，然后把它逆了！,博客 | 二叉树树,https://2x.nz/posts/anuneko,https://2x.nz/,https://2x.nz/rss.xml,2025-12-02,1764633600.0
+盘点那些好用的Serverless（云函数）！,《二叉树树》官方网站,https://2x.nz/posts/serverless-function/,https://2x.nz,https://2x.nz/rss.xml,2025-11-25,1764030804.0
+盘点那些好用的Serverless（云函数）！,博客 | 二叉树树,https://feed.2x.nz/posts/serverless-function/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-25,1764028800.0
+盘点那些好用的Serverless（云函数）！,博客 | 二叉树树,https://2x.nz/posts/serverless-function,https://2x.nz/,https://2x.nz/rss.xml,2025-11-25,1764028800.0
+出门在外，如何优雅、高效、流畅地远程自家电脑？,《二叉树树》官方网站,https://2x.nz/posts/remote/,https://2x.nz,https://2x.nz/rss.xml,2025-11-24,1763978697.0
+出门在外，如何优雅、高效、流畅地远程自家电脑？,博客 | 二叉树树,https://feed.2x.nz/posts/remote/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-24,1763942400.0
+出门在外，如何优雅、高效、流畅地远程自家电脑？,博客 | 二叉树树,https://2x.nz/posts/remote,https://2x.nz/,https://2x.nz/rss.xml,2025-11-24,1763942400.0
+Win11保留数据无损降级Win10！,《二叉树树》官方网站,https://2x.nz/posts/win11-to-win10/,https://2x.nz,https://2x.nz/rss.xml,2025-11-23,1763882320.0
+Win11保留数据无损降级Win10！,博客 | 二叉树树,https://2x.nz/posts/win11-to-win10,https://2x.nz/,https://2x.nz/rss.xml,2025-11-23,1763856000.0
+Win11保留数据无损降级Win10！,博客 | 二叉树树,https://feed.2x.nz/posts/win11-to-win10/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-23,1763856000.0
+解决困扰我多时的JS重复请求问题,《二叉树树》官方网站,https://2x.nz/posts/swup-js/,https://2x.nz,https://2x.nz/rss.xml,2025-11-18,1763426762.0
+解决困扰我多时的JS重复请求问题,博客 | 二叉树树,https://feed.2x.nz/posts/swup-js/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-18,1763424000.0
+解决困扰我多时的JS重复请求问题,博客 | 二叉树树,https://2x.nz/posts/swup-js,https://2x.nz/,https://2x.nz/rss.xml,2025-11-18,1763424000.0
+来！让我们用Vercel来分享你的OneDrive！,《二叉树树》官方网站,https://2x.nz/posts/onedrive-index/,https://2x.nz,https://2x.nz/rss.xml,2025-11-14,1763103826.0
 永久免费OneDrive 5T，MS 365 E3保姆级拿下教程！,《二叉树树》官方网站,https://2x.nz/posts/ms-e3/,https://2x.nz,https://2x.nz/rss.xml,2025-11-14,1763100581.0
 永久免费OneDrive 5T，MS 365 E3保姆级拿下教程！,博客 | 二叉树树,https://2x.nz/posts/ms-e3,https://2x.nz/,https://2x.nz/rss.xml,2025-11-14,1763078400.0
 永久免费OneDrive 5T，MS 365 E3保姆级拿下教程！,博客 | 二叉树树,https://feed.2x.nz/posts/ms-e3/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-14,1763078400.0
@@ -12,8 +29,8 @@ title,author,link,home,rss,date,timestamp
 限制级笔记本电脑验机教程,博客 | 二叉树树,https://2x.nz/posts/check-notebook,https://2x.nz/,https://2x.nz/rss.xml,2025-11-09,1762646400.0
 限制级笔记本电脑验机教程,博客 | 二叉树树,https://feed.2x.nz/posts/check-notebook/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-09,1762646400.0
 自建一个匿名文件上传终结点,《二叉树树》官方网站,https://2x.nz/posts/unknown-upload/,https://2x.nz,https://2x.nz/rss.xml,2025-11-08,1762570924.0
-自建一个匿名文件上传终结点,博客 | 二叉树树,https://feed.2x.nz/posts/unknown-upload/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-08,1762560000.0
 自建一个匿名文件上传终结点,博客 | 二叉树树,https://2x.nz/posts/unknown-upload,https://2x.nz/,https://2x.nz/rss.xml,2025-11-08,1762560000.0
+自建一个匿名文件上传终结点,博客 | 二叉树树,https://feed.2x.nz/posts/unknown-upload/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-08,1762560000.0
 ZTE光猫F450不拆机获取超密,《二叉树树》官方网站,https://2x.nz/posts/zte-f450-bridge/,https://2x.nz,https://2x.nz/rss.xml,2025-11-01,1761979374.0
 ZTE光猫F450不拆机获取超密,博客 | 二叉树树,https://2x.nz/posts/zte-f450-bridge,https://2x.nz/,https://2x.nz/rss.xml,2025-11-01,1761955200.0
 ZTE光猫F450不拆机获取超密,博客 | 二叉树树,https://feed.2x.nz/posts/zte-f450-bridge/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-11-01,1761955200.0
@@ -28,24 +45,7 @@ ZTE光猫F450不拆机获取超密,博客 | 二叉树树,https://feed.2x.nz/post
 人生中的第一台自己组装的台式！键盘亮显示器必亮！,博客 | 二叉树树,https://2x.nz/posts/first-pc,https://2x.nz/,https://2x.nz/rss.xml,2025-10-10,1760054400.0
 人生中的第一台自己组装的台式！键盘亮显示器必亮！,博客 | 二叉树树,https://feed.2x.nz/posts/first-pc/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-10-10,1760054400.0
 魔法少女的魔女审判解包（Unity通用解包方案）,《二叉树树》官方网站,https://2x.nz/posts/manosaba-unzip/,https://2x.nz,https://2x.nz/rss.xml,2025-10-05,1759651776.0
-魔法少女的魔女审判解包（Unity通用解包方案）,博客 | 二叉树树,https://feed.2x.nz/posts/manosaba-unzip/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-10-05,1759622400.0
 魔法少女的魔女审判解包（Unity通用解包方案）,博客 | 二叉树树,https://2x.nz/posts/manosaba-unzip,https://2x.nz/,https://2x.nz/rss.xml,2025-10-05,1759622400.0
+魔法少女的魔女审判解包（Unity通用解包方案）,博客 | 二叉树树,https://feed.2x.nz/posts/manosaba-unzip/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-10-05,1759622400.0
 在Mac上玩GalGame竟如此简单！,《二叉树树》官方网站,https://2x.nz/posts/mac-gal/,https://2x.nz,https://2x.nz/rss.xml,2025-09-30,1759231761.0
 我为什么要买个Mac,《二叉树树》官方网站,https://2x.nz/posts/mac/,https://2x.nz,https://2x.nz/rss.xml,2025-09-30,1759194435.0
-我为什么要买个Mac,博客 | 二叉树树,https://2x.nz/posts/mac,https://2x.nz/,https://2x.nz/rss.xml,2025-09-30,1759190400.0
-我为什么要买个Mac,博客 | 二叉树树,https://feed.2x.nz/posts/mac/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-09-30,1759190400.0
-现代！易上手！高效！且社区支持的超高校级的MarkDown编辑器！,《二叉树树》官方网站,https://2x.nz/posts/obsidian/,https://2x.nz,https://2x.nz/rss.xml,2025-09-16,1758046834.0
-Fuwari静态博客搭建教程,《二叉树树》官方网站,https://2x.nz/posts/fuwari/,https://2x.nz,https://2x.nz/rss.xml,2025-09-16,1758038400.0
-现代！易上手！高效！且社区支持的超高校级的MarkDown编辑器！,博客 | 二叉树树,https://feed.2x.nz/posts/obsidian/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-09-16,1757980800.0
-Fuwari静态博客搭建教程,博客 | 二叉树树,https://2x.nz/posts/fuwari,https://2x.nz/,https://2x.nz/rss.xml,2025-09-16,1757980800.0
-禁用Astro跟弱智一般的静态构建图像优化,《二叉树树》官方网站,https://2x.nz/posts/disable-astro-generating-optimized-images/,https://2x.nz,https://2x.nz/rss.xml,2025-09-09,1757456190.0
-禁用Astro跟弱智一般的静态构建图像优化,博客 | 二叉树树,https://2x.nz/posts/disable-astro-generating-optimized-images,https://2x.nz/,https://2x.nz/rss.xml,2025-09-09,1757376000.0
-禁用Astro跟弱智一般的静态构建图像优化,博客 | 二叉树树,https://feed.2x.nz/posts/disable-astro-generating-optimized-images/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-09-09,1757376000.0
-GoEdge自建CDN系统踩坑记录,《二叉树树》官方网站,https://2x.nz/posts/goedge/,https://2x.nz,https://2x.nz/rss.xml,2025-09-08,1757370486.0
-Reality协议的代理服务端搭建教程,《二叉树树》官方网站,https://2x.nz/posts/reality/,https://2x.nz,https://2x.nz/rss.xml,2025-09-08,1757347200.0
-Reality协议的代理服务端搭建教程,博客 | 二叉树树,https://feed.2x.nz/posts/reality/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-09-08,1757289600.0
-GoEdge自建CDN系统踩坑记录,博客 | 二叉树树,https://2x.nz/posts/goedge,https://2x.nz/,https://2x.nz/rss.xml,2025-09-08,1757289600.0
-Oracle（甲骨文云）踩坑记录,《二叉树树》官方网站,https://2x.nz/posts/oci/,https://2x.nz,https://2x.nz/rss.xml,2025-09-07,1757260885.0
-Oracle（甲骨文云）踩坑记录,博客 | 二叉树树,https://2x.nz/posts/oci,https://2x.nz/,https://2x.nz/rss.xml,2025-09-07,1757203200.0
-Oracle（甲骨文云）踩坑记录,博客 | 二叉树树,https://feed.2x.nz/posts/oci/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-09-07,1757203200.0
-公开架构，我的二次元随机图API是怎么做的,《二叉树树》官方网站,https://2x.nz/posts/acg-randompic-api/,https://2x.nz,https://2x.nz/rss.xml,2025-09-05,1757096520.0
