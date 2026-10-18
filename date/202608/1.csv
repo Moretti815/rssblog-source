@@ -1,24 +1,24 @@
 title,author,link,home,rss,date,timestamp
 将你的 HeoID 卡片添加到 Apple 钱包,张洪Heo,https://blog.zhheo.com/p/6b10yftj.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-31,1788147359.0
-第 20 次重构：七天，把一个网站重新做成一个系统,二叉树树 AcoFork 科技博客,https://2x.nz/blog/20th-rebuild-seven-days-sveltekit-shadcn/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-31,1788134400.0
+第 20 次重构：七天，把一个网站重新做成一个系统,二叉树树 AcoFork 个人博客,https://2x.nz/blog/20th-rebuild-seven-days-sveltekit-shadcn/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-31,1788134400.0
 智谱codingplan耐用程度分析：只用 GLM-5.3-Flash 够不够用？,张洪Heo,https://blog.zhheo.com/p/c0jzc71f.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-28,1787901722.0
 软路由内网穿透访问方案全链路教程：从 ZeroTier 到 Nginx 再到 certd 证书管理,张洪Heo,https://blog.zhheo.com/p/mrlh0a7v.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-28,1787895663.0
 BrowserSkill上手：让AI接入浏览器，还能录制动作教它学习,张洪Heo,https://blog.zhheo.com/p/q6b3774w.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-27,1787826965.0
 我与我的 OpenClaw 凉透了焦虑和解了,张洪Heo,https://blog.zhheo.com/p/npa0251o.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-27,1787800404.0
-从“回跳已过期”到安全交接：一次 OAuth 账号系统联调复盘,二叉树树 AcoFork 科技博客,https://2x.nz/blog/oauth-login-integration-retrospective/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-26,1787702400.0
+从“回跳已过期”到安全交接：一次 OAuth 账号系统联调复盘,二叉树树 AcoFork 个人博客,https://2x.nz/blog/oauth-login-integration-retrospective/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-26,1787702400.0
 ntfsmac 上手：不关 SIP 让 Mac 读写 NTFS 和 ext 硬盘,张洪Heo,https://blog.zhheo.com/p/ucrz6hhg.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-24,1787549502.0
 让 AI 干完活自己喊一声：Windows 下给 Codex、Claude Code、OpenCode 加 TTS 提示,二叉树树 AcoFork 科技博客,https://2x.nz/blog/windows-ai-agent-tts/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-22,1787356800.0
-测试不要碰生产数据库：一次 Cloudflare D1 清库事故复盘,二叉树树 AcoFork 科技博客,https://2x.nz/blog/d1-no-production-testing/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-21,1787270400.0
+测试不要碰生产数据库：一次 Cloudflare D1 清库事故复盘,二叉树树 AcoFork 个人博客,https://2x.nz/blog/d1-no-production-testing/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-21,1787270400.0
 个人小项目vibecoding方案推荐：opencode spark 1.2 和 zcode,张洪Heo,https://blog.zhheo.com/p/1bwuf82b.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-20,1787202332.0
 跨域预检请求失败问题分析,虹墨空间站,https://www.imaegoo.com/2026/cors-issue-analysis/,https://www.imaegoo.com/,https://www.imaegoo.com/atom.xml,2026-08-19,1787121000.0
 分享一下博客的全新聚合搜索,张洪Heo,https://blog.zhheo.com/p/mgii3qy1.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-19,1787118939.0
 给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案,张洪Heo,https://blog.zhheo.com/p/3gr7k8xj.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-14,1786700793.0
 Mole Mac 上手：界面精美，优秀好用的Mac清理工具,张洪Heo,https://blog.zhheo.com/p/lgodvfdh.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-14,1786695739.0
 Agentation 油猴脚本：让AI指哪改哪，配合 Claude Code 的开发神器,张洪Heo,https://blog.zhheo.com/p/wh8h2uop.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-12,1786501904.0
-原 SSR 落幕之后：我用不到半天把主站从 React CSR 重构到 Vuetify,二叉树树 AcoFork 科技博客,https://2x.nz/blog/one-day-deepseek-vuetify-site/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-12,1786492800.0
+原 SSR 落幕之后：我用不到半天把主站从 React CSR 重构到 Vuetify,二叉树树 AcoFork 个人博客,https://2x.nz/blog/one-day-deepseek-vuetify-site/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-12,1786492800.0
 洪绘压图网页版上线，这下可以随时随地在线压缩图片了,张洪Heo,https://blog.zhheo.com/p/tbp0pls8.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-10,1786344039.0
 分享一下我最近制作的一些AI音乐，以及解决唱歌错字和音质的一些小技巧,张洪Heo,https://blog.zhheo.com/p/4c5g2me1.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-10,1786336007.0
-从零在您的Windows、Linux和Android设备上使用WARP（Cloudflare IP）游览互联网,二叉树树 AcoFork 科技博客,https://2x.nz/blog/warp/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-08,1786147200.0
+从零在您的Windows、Linux和Android设备上使用WARP（Cloudflare IP）游览互联网,二叉树树 AcoFork 个人博客,https://2x.nz/blog/warp/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-08,1786147200.0
 洪绘敲木鱼支持“竹知了”模式了，可以自定义音效的电子竹知了App,张洪Heo,https://blog.zhheo.com/p/0zlnja8m.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-07,1786093120.0
 谨慎选择京东云,虹墨空间站,https://www.imaegoo.com/2026/fk-jdcloud/,https://www.imaegoo.com/,https://www.imaegoo.com/atom.xml,2026-08-07,1786069800.0
 AxonHub - 多模型API智能路由网关,LiuShen's Blog - 清羽飞扬,https://blog.liushen.fun/posts/b404081c/,https://blog.liushen.fun/,https://blog.liushen.fun/atom.xml,2026-08-06,1786036320.0

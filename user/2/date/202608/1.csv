@@ -1,7 +1,7 @@
 title,author,link,home,rss,date,timestamp
-第 20 次重构：七天，把一个网站重新做成一个系统,二叉树树 AcoFork 科技博客,https://2x.nz/blog/20th-rebuild-seven-days-sveltekit-shadcn/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-31,1788134400.0
-上次迁到 Vuetify，这次又回到 Astro：第 19 次重构，把整个主站收进一个前端,二叉树树 AcoFork 科技博客,https://2x.nz/blog/astro-aio-migration/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-26,1787702400.0
+第 20 次重构：七天，把一个网站重新做成一个系统,二叉树树 AcoFork 个人博客,https://2x.nz/blog/20th-rebuild-seven-days-sveltekit-shadcn/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-31,1788134400.0
+上次迁到 Vuetify，这次又回到 Astro：第 19 次重构，把整个主站收进一个前端,二叉树树 AcoFork 个人博客,https://2x.nz/blog/astro-aio-migration/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-26,1787702400.0
 让 AI 干完活自己喊一声：Windows 下给 Codex、Claude Code、OpenCode 加 TTS 提示,二叉树树 AcoFork 科技博客,https://2x.nz/blog/windows-ai-agent-tts/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-22,1787356800.0
-测试不要碰生产数据库：一次 Cloudflare D1 清库事故复盘,二叉树树 AcoFork 科技博客,https://2x.nz/blog/d1-no-production-testing/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-21,1787270400.0
+测试不要碰生产数据库：一次 Cloudflare D1 清库事故复盘,二叉树树 AcoFork 个人博客,https://2x.nz/blog/d1-no-production-testing/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-21,1787270400.0
 原 SSR 落幕之后：我用不到半天把主站从 React CSR 重构到 Vuetify,二叉树树 AcoFork 科技博客,https://2x.nz/blog/one-day-deepseek-vuetify-site/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-12,1786492800.0
-从零在您的Windows、Linux和Android设备上使用WARP（Cloudflare IP）游览互联网,二叉树树 AcoFork 科技博客,https://2x.nz/blog/warp/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-08,1786147200.0
+从零在您的Windows、Linux和Android设备上使用WARP（Cloudflare IP）游览互联网,二叉树树 AcoFork 个人博客,https://2x.nz/blog/warp/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-08,1786147200.0
