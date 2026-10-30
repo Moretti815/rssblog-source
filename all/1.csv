@@ -31,7 +31,7 @@ OpenClaw 2.0：稳定性提升不少，我还迁移了我的记忆系统,张洪H
 软路由内网穿透访问方案全链路教程：从 ZeroTier 到 Nginx 再到 certd 证书管理,张洪Heo,https://blog.zhheo.com/p/mrlh0a7v.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-28,1787895663.0
 BrowserSkill上手：让AI接入浏览器，还能录制动作教它学习,张洪Heo,https://blog.zhheo.com/p/q6b3774w.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-27,1787826965.0
 我与我的 OpenClaw 凉透了焦虑和解了,张洪Heo,https://blog.zhheo.com/p/npa0251o.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-27,1787800404.0
-从“回跳已过期”到安全交接：一次 OAuth 账号系统联调复盘,二叉树树 AcoFork 个人博客,https://2x.nz/blog/oauth-login-integration-retrospective/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-26,1787702400.0
+上次迁到 Vuetify，这次又回到 Astro：第 19 次重构，把整个主站收进一个前端,二叉树树 AcoFork 个人博客,https://2x.nz/blog/astro-aio-migration/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-26,1787702400.0
 ntfsmac 上手：不关 SIP 让 Mac 读写 NTFS 和 ext 硬盘,张洪Heo,https://blog.zhheo.com/p/ucrz6hhg.html,https://blog.zhheo.com/,https://blog.zhheo.com/rss.xml,2026-08-24,1787549502.0
 让 AI 干完活自己喊一声：Windows 下给 Codex、Claude Code、OpenCode 加 TTS 提示,二叉树树 AcoFork 个人博客,https://2x.nz/blog/windows-ai-agent-tts/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-22,1787356800.0
 测试不要碰生产数据库：一次 Cloudflare D1 清库事故复盘,二叉树树 AcoFork 个人博客,https://2x.nz/blog/d1-no-production-testing/,https://2x.nz/blog/,https://2x.nz/rss.xml,2026-08-21,1787270400.0
