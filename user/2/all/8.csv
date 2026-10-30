@@ -1,4 +1,12 @@
 title,author,link,home,rss,date,timestamp
+关于我折腾了一晚上 EdgeOne,博客 | 二叉树树,https://feed.2x.nz/posts/edgeone/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-06-21,1750464000.0
+关于我折腾了一晚上 EdgeOne,二叉树树 AcoFork 个人博客,https://2x.nz/blog/edgeone/,https://2x.nz/blog/,https://2x.nz/rss.xml,2025-06-21,1750464000.0
+关于我折腾了一晚上 EdgeOne,博客 | 二叉树树,https://2x.nz/posts/edgeone,https://2x.nz/,https://2x.nz/rss.xml,2025-06-21,1750464000.0
+静态博客也想展示文章浏览量？当然可以！,《二叉树树》官方网站,https://2x.nz/posts/static-view/,https://2x.nz,https://2x.nz/rss.xml,2025-06-17,1750176000.0
+静态博客也想展示文章浏览量？当然可以！,博客 | 二叉树树,https://2x.nz/posts/static-view,https://2x.nz/,https://2x.nz/rss.xml,2025-06-17,1750118400.0
+静态博客也想展示文章浏览量？当然可以！,博客 | 二叉树树,https://feed.2x.nz/posts/static-view/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-06-17,1750118400.0
+静态博客也想展示文章浏览量？当然可以！,二叉树树 AcoFork 个人博客,https://2x.nz/blog/static-view/,https://2x.nz/blog/,https://2x.nz/rss.xml,2025-06-17,1750118400.0
+AI写不出优质的代码？其实是你引导错了！,《二叉树树》官方网站,https://2x.nz/posts/aicode-prompt/,https://2x.nz,https://2x.nz/rss.xml,2025-06-16,1750089600.0
 AI写不出优质的代码？其实是你引导错了！,博客 | 二叉树树,https://2x.nz/posts/aicode-prompt,https://2x.nz/,https://2x.nz/rss.xml,2025-06-16,1750032000.0
 AI写不出优质的代码？其实是你引导错了！,博客 | 二叉树树,https://feed.2x.nz/posts/aicode-prompt/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-06-16,1750032000.0
 NAT1开放内网网站,《二叉树树》官方网站,https://2x.nz/posts/nat1-web/,https://2x.nz,https://2x.nz/rss.xml,2025-05-30,1748620800.0
@@ -41,11 +49,3 @@ Netlify、Vercel反代网站,《二叉树树》官方网站,https://2x.nz/posts/
 Cloudflare R2+Workers！马上搭建自己的云上图床！,《二叉树树》官方网站,https://2x.nz/posts/cf-randompic/,https://2x.nz,https://2x.nz/rss.xml,2025-03-04,1741104000.0
 Cloudflare R2+Workers！马上搭建自己的云上图床！,博客 | 二叉树树,https://2x.nz/posts/cf-randompic,https://2x.nz/,https://2x.nz/rss.xml,2025-03-04,1741046400.0
 Cloudflare R2+Workers！马上搭建自己的云上图床！,博客 | 二叉树树,https://feed.2x.nz/posts/cf-randompic/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-03-04,1741046400.0
-Hugo博客搭建教程以及配置调优,《二叉树树》官方网站,https://2x.nz/posts/hugo/,https://2x.nz,https://2x.nz/rss.xml,2025-03-02,1740931200.0
-Hugo博客搭建教程以及配置调优,博客 | 二叉树树,https://2x.nz/posts/hugo,https://2x.nz/,https://2x.nz/rss.xml,2025-03-02,1740873600.0
-Hugo博客搭建教程以及配置调优,博客 | 二叉树树,https://feed.2x.nz/posts/hugo/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-03-02,1740873600.0
-教你搭建自己的番剧库，实现自动追番！,《二叉树树》官方网站,https://2x.nz/posts/autobangumi/,https://2x.nz,https://2x.nz/rss.xml,2025-02-24,1740412800.0
-教你搭建自己的番剧库，实现自动追番！,博客 | 二叉树树,https://2x.nz/posts/autobangumi,https://2x.nz/,https://2x.nz/rss.xml,2025-02-24,1740355200.0
-教你搭建自己的番剧库，实现自动追番！,博客 | 二叉树树,https://feed.2x.nz/posts/autobangumi/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-02-24,1740355200.0
-我买了个新NAS...,《二叉树树》官方网站,https://2x.nz/posts/new-nas/,https://2x.nz,https://2x.nz/rss.xml,2025-02-22,1740240000.0
-我买了个新NAS...,博客 | 二叉树树,https://feed.2x.nz/posts/new-nas/,https://feed.2x.nz/,https://2x.nz/rss.xml,2025-02-22,1740182400.0
